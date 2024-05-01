@@ -12,4 +12,6 @@
 将数字钟拓展为桌面时钟，复刻稚辉君的Holo_Cubic开源项目，并且自行建模并3d打印了外壳。
 
 ## 说明
-在文件夹中，arduino文件夹包含了 ino源码以及proteus仿真文件，stm32文件夹则为整个工程文件，holo_cubic文件夹为固件库以及.stl文件。
+在文件夹中，arduino文件夹包含了 ino源码以及proteus仿真文件，stm32文件夹则为整个工程文件，holo_cubic文件夹为固件库以及.stl文件。<br>
+演示视频的百度网盘链接为：链接：https://pan.baidu.com/s/15DNL0zQxUYICYWlIzqVlDA?pwd=ep06 
+提取码：ep06
